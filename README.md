@@ -31,6 +31,14 @@ This project is licensed under the Apache 2.0 License. See the [LICENSE](LICENSE
 
 ## 📢 Spread the Word
 Share your journey with your network and tag me, [Aman Pathak](https://www.linkedin.com/in/aman-devops), when you post your blogs on LinkedIn. Let's learn together!
-# Use (sudo htop) to see the process running on your server/machine
+
+# To see the process running on your server/machine
+sudo htop
+
+# To see linux system release or version info
+sudo cat /etc/os-release
+
+# AWS EKS Kubeconfig update
+aws eks update-kubeconfig --region <region> --name <cluster-name>
 
 Happy learning and blogging! 🌟
